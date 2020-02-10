@@ -1,0 +1,18 @@
+
+Summary for visual sts train set
+  Number of pairs: 1338
+  Total zero-valued pairs: 161 (0.12%)
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+  0.000   0.600   1.800   1.894   3.000   5.000 
+
+Summary for visual sts dev set
+  Number of pairs: 669
+  Total zero-valued pairs: 80 (0.12%)
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+  0.000   0.600   1.800   1.899   3.000   5.000 
+
+Summary for visual test set
+  Number of pairs: 670
+  Total zero-valued pairs: 94 (0.14%)
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+  0.000   0.600   1.800   1.884   3.000   5.000

@@ -79,14 +79,19 @@ of 1.36 points. The dataset contains 335 zero-valued pairs out of
 the 2677 instances, which somehow explains the lower average
 similarity. 
 
-# Explore 
+## Download 
+
+- For the full documentation of the dataset and its format please refer to our [Github repository]({{ oierldl.github.io }}/vsts).
+- Click here to download (vSTS dataset)(http://ixa2.si.ehu.eus/~jibloleo/visual_sts.v2.0.tar.gz).
+
+## Explore dataset 
 
 link to dashboard
 
 # Paper
 
-[__Evaluating Multimodal Representations on Visual Semantic Textual Similarity__]({{ oierldl.github.io }}/vsts/paper/ECAI_2020___vSTS.pdf) \ 
-Oier Lopez de Lacalle, Ander Salaberria, Aitor Soroa, Gorka Azkune and Eneko Agirre \
+[__Evaluating Multimodal Representations on Visual Semantic Textual Similarity__]({{ oierldl.github.io }}/vsts/paper/ECAI_2020___vSTS.pdf). 
+Oier Lopez de Lacalle, Ander Salaberria, Aitor Soroa, Gorka Azkune and Eneko Agirre.
 European Conference on Artificial Intelligence (ECAI-20)
 
 
@@ -102,5 +107,9 @@ European Conference on Artificial Intelligence (ECAI-20)
 
 # Authors
 
+Oier Lopez de Lacalle, Ander Salaberria, Aitor Soroa, Gorka Azkune and Eneko Agirre. 
 
-# Experiments
+
+# Results
+
+TBD

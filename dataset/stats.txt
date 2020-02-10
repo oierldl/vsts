@@ -1,0 +1,5 @@
+Summary for visual sts v2.0
+  Number of pairs: 2677
+  Total zero-valued pairs: 335 (0.13%)
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+  0.000   0.600   1.800   1.893   3.000   5.000 
