@@ -1,21 +1,21 @@
-## Visual Semantic Textual Similariy
+# Visual Semantic Textual Similariy
 
 Add descriptive short intro + some images.
 
 [Link](url) and ![Image](src)
 
-### Dataset
+# Dataset
 
 Summary stats and plot of the dataset
 
-### Explore 
+# Explore 
 
 link to dashboard
 
-### Paper
+# Paper
 
 
-### Authors
+# Authors
 
 
-### Experiments
+# Experiments
