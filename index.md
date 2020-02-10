@@ -2,11 +2,13 @@
 
 Add descriptive short intro + some images.
 
-[Link](url) and ![Image](src)
+![]({{ oierldl.github.io }}/vsts/images/vsts10vs01-motivation.png)
+
 
 # Dataset
 
 Summary stats and plot of the dataset
+
 
 # Explore 
 
