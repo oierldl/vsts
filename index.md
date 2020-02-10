@@ -85,8 +85,8 @@ link to dashboard
 
 # Paper
 
-[__Evaluating Multimodal Representations on Visual Semantic Textual Similarity__](url) 
-Oier Lopez de Lacalle, Ander Salaberria, Aitor Soroa, Gorka Azkune and Eneko Agirre
+[__Evaluating Multimodal Representations on Visual Semantic Textual Similarity__]({{ oierldl.github.io }}/vsts/paper/ECAI_2020___vSTS.pdf) \ 
+Oier Lopez de Lacalle, Ander Salaberria, Aitor Soroa, Gorka Azkune and Eneko Agirre \
 European Conference on Artificial Intelligence (ECAI-20)
 
 
