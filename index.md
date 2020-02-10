@@ -2,7 +2,7 @@
 
 Add descriptive short intro + some images.
 
-![]({{ oierldl.github.io }}/vsts/images/vsts10vs01-motivation.png)
+![]({{ oierldl.github.io }}/vsts/images/vsts-motivation.png)
 
 
 # Dataset
