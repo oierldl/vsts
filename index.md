@@ -82,7 +82,7 @@ similarity.
 ## Download 
 
 - For the full documentation of the dataset and its format please refer to our [Github repository]({{ oierldl.github.io }}/vsts).
-- Click here to download (vSTS dataset)(http://ixa2.si.ehu.eus/~jibloleo/visual_sts.v2.0.tar.gz).
+- Click here to download [vSTS dataset](http://ixa2.si.ehu.eus/~jibloleo/visual_sts.v2.0.tar.gz).
 
 ## Explore dataset 
 
