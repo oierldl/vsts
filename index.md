@@ -65,17 +65,19 @@ challenging dataset of 1858 pairs.
 
 
 The full dataset comprises both the sample mentioned above and the 819
-pairs from our preliminary work, totalling 2677
-pairs. The figure shows the final item similarity
-distribution. Although the distribution is skewed towards lower
-similarity values, we consider that all the similarity ranges are
-sufficiently well covered.
+pairs from our preliminary work, totalling 2677 pairs. The figure
+below shows the final item similarity distribution. Although the
+distribution is skewed towards lower similarity values, we consider
+that all the similarity ranges are sufficiently well covered.
 
 
 ![]({{ oierldl.github.io }}/vsts/images/vsts20_ggplots.png)
 
 
-
+Average similarity of the dataset is 1.9 with a standard deviation
+of 1.36 points. The dataset contains 335 zero-valued pairs out of
+the 2677 instances, which somehow explains the lower average
+similarity. 
 
 # Explore 
 
@@ -83,6 +85,20 @@ link to dashboard
 
 # Paper
 
+[__Evaluating Multimodal Representations on Visual Semantic Textual Similarity__](url) 
+Oier Lopez de Lacalle, Ander Salaberria, Aitor Soroa, Gorka Azkune and Eneko Agirre
+European Conference on Artificial Intelligence (ECAI-20)
+
+
+```
+@proceedings{DBLP:conf/ijcai/2018,
+  title     = {Proceedings of the Twenty-third European Conference on
+               Artificial Intelligence, {ECAI} 2020, June 8-12, 2020, Santiago Compostela,
+               Spain},
+  author    = {Oier Lopez de Lacalle and Ander Salaberria and Aitor Soroa and Gorka Azkune and Eneko Agirre}
+  year      = {2020},
+}
+```
 
 # Authors
 
