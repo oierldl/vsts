@@ -32,14 +32,14 @@ for meaning equivalence. Intermediate values reflect interpretable
 levels of partial overlap in meaning.
 
 
-|Similarity definitions:|
-|-----------------------|
-| 5: Completely equivalent: They mean the same thing. |
-| 4: Mostly equivalent: Some unimportant details differ. |
-| 3: Roughly equivalent: Some important information differs/missing. |
-| 2: Not equivalent but share some details. |
-| 1: Not equivalent but on the same topic. |
-| 0: Completely dissimilar. |
+|Similarity | definitions|
+|-----------|------------|
+| 5 | Completely equivalent: They mean the same thing. |
+| 4 | Mostly equivalent: Some unimportant details differ. |
+| 3 | Roughly equivalent: Some important information differs/missing. |
+| 2 | Not equivalent but share some details. |
+| 1 | Not equivalent but on the same topic. |
+| 0 | Completely dissimilar. |
 
 
 
