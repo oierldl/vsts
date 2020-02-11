@@ -1,4 +1,4 @@
-#__vSTS__: Visual Semantic Textual Similarity
+# __vSTS__: Visual Semantic Textual Similarity
 
 We present present Visual Semantic Textual Similarity (vSTS) that
 extends the Semantic Textual Similarity to the visual modality, a task
