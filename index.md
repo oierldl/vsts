@@ -112,4 +112,6 @@ Oier Lopez de Lacalle, Ander Salaberria, Aitor Soroa, Gorka Azkune and Eneko Agi
 
 # Results
 
-TBD
+- TBD
+
+- For the code of the experiments reported in the [ECAI-2020 paper](#Paper) will be available soon in the [Github repository]({{ oierldl.github.io }}/vsts).
