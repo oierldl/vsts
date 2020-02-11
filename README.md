@@ -13,11 +13,14 @@ test the complementarity of visual and textual information for
 improved language understanding.
 
 
-For more details check out our ECAI paper [__Evaluating Multimodal Representations on Visual Semantic Textual Similarity__](https://oierldl.github.io/vsts/paper/ECAI_2020___vSTS.pdf), and [website](https://oierldl.github.io/vsts/).
+For more details check out our ECAI paper [__Evaluating Multimodal
+Representations on Visual Semantic Textual
+Similarity__](https://oierldl.github.io/vsts/paper/ECAI_2020___vSTS.pdf),
+and [website](https://oierldl.github.io/vsts/).
 
-The code and models presented in our [paper](https://oierldl.github.io/vsts/paper/ECAI_2020___vSTS.pdf), see our repository at: CREATE A NEW REPO FOR THIS
+The code and models presented in our [paper](https://oierldl.github.io/vsts/paper/ECAI_2020___vSTS.pdf), see our repository at: **TBD**
 
-Full dataset can be downloaded [here](http://ixa2.si.ehu.eus/~jibloleo/visual_sts.v2.0.tar.gz)
+Full dataset can be downloaded [here](http://ixa2.si.ehu.eus/~jibloleo/visual_sts.v2.0.tar.gz).
 
 
 ## Data description and format
