@@ -112,6 +112,19 @@ Oier Lopez de Lacalle, Ander Salaberria, Aitor Soroa, Gorka Azkune and Eneko Agi
 
 # Results
 
+Results below are reported in the [ECAI-2020 paper](#Paper). The code
+of the experiments will be available soon in the [Github
+repository]({{ oierldl.github.io }}/vsts).
+
+Models are evaluated in two scenarios:
+
+- **Unsupervised scenario**: Models do not use available training data of
+  the task. Tipically, representation are learned in another task and
+  similarity is computed with the cosine.
+
+- **Supervised scenario**: Models make use of available annotated data to
+  learn and tune parameters.
+
 **Unsupervised scenario**
 
 | Model             | Modality | train | dev   | test  |
@@ -155,8 +168,3 @@ Oier Lopez de Lacalle, Ander Salaberria, Aitor Soroa, Gorka Azkune and Eneko Agi
 **Image contribution**
 
 ![]({{ oierldl.github.io }}/vsts/images/model_variability_small.png)
-
-
-
-
-- For the code of the experiments reported in the [ECAI-2020 paper](#Paper) will be available soon in the [Github repository]({{ oierldl.github.io }}/vsts).
