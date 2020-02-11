@@ -112,6 +112,27 @@ Oier Lopez de Lacalle, Ander Salaberria, Aitor Soroa, Gorka Azkune and Eneko Agi
 
 # Results
 
-- TBD
+**Unsupervised scenario**
+
+| Model             | Modality | train $\rho$  | dev $\rho | test $\rho$ |
+|------------------------------------------------------------------------|
+| glove             | text     | 0.576         |  0.580    | 0.587       |
+| bert              | text     | 0.641         |  0.593    | 0.612       |
+| gpt-2             | text     | 0.198         |  0.241    | 0.210       |
+| use               | text     | 0.732         |  0.747    | 0.720       |
+| vse++             | text     | 0.822         |  0.812    | 0.803       |
+| resnet-152        | image    | 0.638         |  0.635    | 0.627       |
+| vse++ image       | image    | 0.677         |  0.666    | 0.662       |
+| glove+resnet-152  | mmodal   | 0.736         | 0.732     | 0.730       |
+| bert+resnet-152   | mmodal   | 0.768         | 0.747     | 0.745       |
+| use+resnet-152    | mmodal   | 0.799         | 0.806     | 0.787       |
+| vse++ +resnet-152 | mmodal   | 0.846         | 0.837     | 0.826       |
+
+
+
+**Supervised scenario**
+
+
+
 
 - For the code of the experiments reported in the [ECAI-2020 paper](#Paper) will be available soon in the [Github repository]({{ oierldl.github.io }}/vsts).
