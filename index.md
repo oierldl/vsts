@@ -86,7 +86,7 @@ similarity.
 
 ## Explore dataset 
 
-link to dashboard
+TBD
 
 # Paper
 
@@ -151,7 +151,8 @@ Oier Lopez de Lacalle, Ander Salaberria, Aitor Soroa, Gorka Azkune and Eneko Agi
 
 
 
-** Image contribution **
+
+**Image contribution**
 
 ![]({{ oierldl.github.io }}/vsts/images/model_variability_small.png)
 
