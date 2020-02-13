@@ -45,7 +45,7 @@ The file ``visual_sts.v2.0.all.tsv`` ([download](https://github.com/oierldl/vsts
 dataset without the actual images. Train, development, and test
 partition used in the
 [paper]((https://oierldl.github.io/vsts/paper/ECAI_2020___vSTS.pdf))
-can be found in [``train-dev-test``](https://github.com/oierldl/vsts/dataset/train-dev-test) folder in the GitHub
+can be found in [``train-dev-test``](https://oierldl.github.io/vsts/dataset/train-dev-test) folder in the GitHub
 repository. Partitions are divied in the following files:
 
 - **Training set**: ``dataset/train-dev-test/visual_sts.v2.0.train.tsv``
